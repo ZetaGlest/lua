@@ -1,0 +1,8 @@
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/lua/CMakeFiles/liblua.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/lua/CMakeFiles/lua.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/lua/CMakeFiles/luac.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/lua/CMakeFiles/INSTALL.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/lua/CMakeFiles/wlua.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/lua/CMakeFiles/PACKAGE.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/lua/CMakeFiles/ALL_BUILD.dir
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/lua/CMakeFiles/ZERO_CHECK.dir

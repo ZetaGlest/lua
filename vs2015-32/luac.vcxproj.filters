@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lapi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lcode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lctype.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\ldebug.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\ldo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\ldump.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lfunc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lgc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\llex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lmem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lobject.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lopcodes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lparser.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lstate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lstring.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\ltable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\ltm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lundump.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lvm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lzio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lauxlib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lbaselib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lbitlib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lcorolib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\ldblib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\liolib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lmathlib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\loslib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\lstrlib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\ltablib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\linit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\loadlib_rel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\luac.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\lua\src\luac.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BFB1C762-9B92-30CD-8D36-2BE99FF5DD09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
